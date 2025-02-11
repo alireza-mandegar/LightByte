@@ -13,6 +13,7 @@ url = "posts"
 [params]
 user = "DarkByte"
 hostname = "github.io"
+footerHtml = 'Here Is a Place For All DarkBytes.'
 [params.author]
 name = "Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets. Threat Not Found... For Now."
 email = "hello@to.you"
@@ -34,3 +35,6 @@ key = 2
 name = "linkedin"
 url = "https://www.linkedin.com/"
 aria = "LinkedIn Profile"
+
+[[params.styles]]
+color = "orange"
