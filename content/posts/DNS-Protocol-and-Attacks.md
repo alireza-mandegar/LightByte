@@ -1,3 +1,9 @@
++++
+date = '2025-02-11T23:07:12+03:30'
+draft = true
+title = 'DNS Protocol and Attacks'
++++
+
 # DNS Protocol & Attacks
 
 > DNS Stands for Domain Name System
@@ -24,5 +30,3 @@
   
   - While the basic function of DNS is to translate names to IP addresses, its underlying architecture is more sophisticated and versatile.
   - Further course content will explore these complexities in greater detail.
-
-
