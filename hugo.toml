@@ -23,6 +23,11 @@ avatarSize = "size-m"
 readingTime = true
 published = true
 
+sitedescription = 'Darkbyte'
+
+[[params.styles]]
+color = "orange"
+
 [[params.social]]
 key = 0
 name = "github"
