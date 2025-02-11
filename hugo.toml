@@ -17,7 +17,7 @@ footerHtml = 'Here Is a Place For All DarkBytes.'
 [params.author]
 name = "Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets. Threat Not Found... For Now."
 email = "hello@to.you"
-avatar = "avatar.png"
+avatar = "https://alireza-mandegar.github.io/DarkByte/authors/admin/avatar.png"
 avatarSize = "size-m"
 
 readingTime = true
