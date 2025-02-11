@@ -2,3 +2,35 @@ baseURL = 'alireza-mandegar.github.io/DarkByte'
 languageCode = 'en-us'
 title = 'DarkByte'
 theme = 'nightfall'
+
+[menu]
+[[menu.header]]
+name = "posts"
+weight = 0
+url = "posts"
+[[menu.header]]
+name = "about"
+weight = 1
+url = "about"
+
+[params]
+user = "DarkByte"
+hostname = "alireza-mandegar.github.io/DarkByte"
+[params.author]
+name = "Alireza"
+
+readingTime = true
+published = true
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/alireza-mandegar"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/"
+aria = "LinkedIn Profile"
