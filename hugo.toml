@@ -14,7 +14,7 @@ url = "posts"
 user = "DarkByte"
 hostname = "github.io"
 [params.author]
-name = "Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets.\nThreat Not Found... For Now."
+name = "Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets.\n\n\nThreat Not Found... For Now."
 email = "hello@to.you"
 avatar = "icons/logo2.png"
 avatarSize = "size-m"
