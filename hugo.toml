@@ -13,9 +13,9 @@ url = "posts"
 [params]
 user = "DarkByte"
 hostname = "github.io"
-footerHtml = 'Here Is a Place For All DarkBytes.'
+footerHtml = 'Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets. Threat Not Found... For Now.'
 [params.author]
-name = "Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets. Threat Not Found... For Now."
+name = "DarkByte"
 email = "hello@to.you"
 avatar = "https://alireza-mandegar.github.io/DarkByte/authors/admin/avatar.png"
 avatarSize = "size-m"
