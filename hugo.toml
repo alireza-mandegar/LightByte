@@ -18,7 +18,7 @@ footerHtml = 'Threat Not Found... For Now.'
 name = "Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets."
 email = "hello@to.you"
 avatar = "https://alireza-mandegar.github.io/DarkByte/authors/admin/avatar.png"
-avatarSize = "size-m"
+avatarSize = "size-s"
 
 readingTime = true
 published = true
