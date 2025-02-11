@@ -1,4 +1,6 @@
 baseURL = 'alireza-mandegar.github.io/DarkByte'
 languageCode = 'en-us'
 title = 'DarkByte'
-theme = 'Nightfall'
+[module]
+[[module.imports]]
+path = 'github.com/LordMathis/hugo-theme-nightfall'
