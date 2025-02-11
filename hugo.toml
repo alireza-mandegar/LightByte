@@ -16,7 +16,7 @@ hostname = "github.io"
 [params.author]
 name = "Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets. Threat Not Found... For Now."
 email = "hello@to.you"
-avatar = "/icons/logo2.png"
+avatar = "https://github.com/alireza-mandegar/DarkByte/tree/main/icons/logo2.png"
 avatarSize = "size-m"
 
 readingTime = true
