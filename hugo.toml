@@ -17,7 +17,7 @@ footerHtml = 'Threat Not Found... For Now.'
 [params.author]
 name = "Wellcome to LightByte: Where Logs Confess and Endpoints Spill Their Secrets."
 email = "hello@to.you"
-avatar = "https://alireza-mandegar.github.io/LightByte/authors/admin/avatar.png"
+avatar = "https://alireza-mandegar.github.io/LightByte/authors/admin/avatar1.png"
 avatarSize = "size-s"
 
 readingTime = true
