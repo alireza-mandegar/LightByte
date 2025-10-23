@@ -1,6 +1,6 @@
 baseURL = 'alireza-mandegar.github.io/DarkByte'
 languageCode = 'en-us'
-title = 'DarkByte'
+title = 'LightByte'
 theme = 'nightfall'
 
 [menu]
@@ -11,11 +11,11 @@ url = "posts"
 
 
 [params]
-user = "DarkByte"
+user = "LightByte"
 hostname = "github.io"
 footerHtml = 'Threat Not Found... For Now.'
 [params.author]
-name = "Wellcome to DarkByte: Where Logs Confess and Endpoints Spill Their Secrets."
+name = "Wellcome to LightByte: Where Logs Confess and Endpoints Spill Their Secrets."
 email = "hello@to.you"
 avatar = "https://alireza-mandegar.github.io/DarkByte/authors/admin/avatar.png"
 avatarSize = "size-s"
@@ -23,7 +23,7 @@ avatarSize = "size-s"
 readingTime = true
 published = true
 
-sitedescription = 'Darkbyte'
+sitedescription = 'LightByte'
 
 [[params.social]]
 key = 0
@@ -35,5 +35,5 @@ aria = "GitHub Profile"
 [[params.social]]
 key = 2
 name = "linkedin"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/alirezamandegar/"
 aria = "LinkedIn Profile"
